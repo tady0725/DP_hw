@@ -7,15 +7,14 @@ git clone https://github.com/tady0725/DP_hw.git
 
 ## 安裝虛擬環境 && 創建虛擬環境
 
-
+```markdown
 - pip install virtualenv
 
 - cd DP_hw
 
 - python -m venv venv
 - venv\Scripts\activate.bat
-
-
+```
 
 
 
